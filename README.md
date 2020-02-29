@@ -81,4 +81,16 @@ Identify the 5 most profitable items by total purchase value, then list (in a ta
 * Total Purchase Value
 
 
+--------------------------------
+# Results
 
+HeroesOfPymoli.jpynb contains the results for the required lists. Using the resulting tables, we can see three trends emerging from the data:
+
+## Age Demographics
+The highest percentage of players (44.79%) are in the age range of 20-24, coming in at 258 of 576 players in the data set. The second highest percentage of players (18.58%) are in the 15-19 age range. That means that the majority of players who have bought an item in-game (66.37%) are in the age group of 15-24. The players of this game that will spend money after the initial purchase of the game tend to be young adults.
+
+## Spending Habits of Players
+Of the 576 players, we can see that no individual has spent more than $20 on additional content for the game. The highest recorded total purchase value was by the screen name Lisosia93, who bought 5 items for a total of $18.96. Most players in this data set (of the players who actually purchased something) only bought one item. 
+
+## Item Popularity
+The item that appears to be the most popular as well as the most profitable for the company is Oathbreaker, Last Hope of the Breaking Storm. It was purchased 12 times in the data set, 3 more times than any other item. Looking at the lists of the most popular items and the most profitable items, many items reappear near the top of the list. We can probably assume that popularity and profitablity have a relationship with each other. The more popular an item is, the more times it has been purchased, and each purchase increases the profits for the company. 
